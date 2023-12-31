@@ -137,7 +137,7 @@ You can find configuration guide for Kaby Lake laptops on [dortania.github.io](h
 - `Audio` - Conexant CX8200
 - `Brightness Keys` 
 - `Battery` (management, percentage and actual work time)
-- `Bluetooth and Wi-Fi` - Intel Wireless-AC 8160
+- `Bluetooth and Wi-Fi` - Intel Wireless-AC 8260
 - `CPU power management / performance`
 - `Keyboard`
 - `IGPU Intel HD 620`
