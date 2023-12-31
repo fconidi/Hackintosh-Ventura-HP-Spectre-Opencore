@@ -32,11 +32,10 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
  | GPU             | Intel HD Graphics 620                                |                                  |
  | Screen          | 13.3" FHD IPS UWVA (1920 x 1080)                |                                  |
  | RAM             | 8 GB LPDDR3-1866 SDRAM                                   |                               |
- | SSD Primary     | 512 GB PCIe® NVMe™ M.2 SSD |Disk for Windows macOS and SysLinuxOS|       
- | Audio           | Realtek ALC285                                        |                                  |
- | Wireless        | Intel Wireless AC 7260                             |                                                                    |
- | BIOS version    | F.63                                                  |                                  |
-
+ | SSD Primary     | 512 GB Toshiba NVMe™ M.2 SSD |Disk for Windows macOS and SysLinuxOS|       
+ | Audio           | Conexant CX8200 (0x2008)                                        |                                  |
+ | Wireless        | Intel Wireless AC 8260                             |                                                                    |
+ 
 </details>  
 
 
