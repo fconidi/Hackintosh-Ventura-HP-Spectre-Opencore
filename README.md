@@ -18,7 +18,7 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
     <strong>Hardware configuration</strong>
 </summary>
 
-### **HP Pavilion Gaming 15-dk0047nl**
+### **HP Spectre v-102nl**
 
 
 [![HP](https://img.shields.io/badge/HP-Specs-red.svg)](https://support.hp.com/gb-en/document/c05300954) [![OpenCore](https://img.shields.io/badge/HP-Support-blue.svg)](https://support.hp.com/gb-en/drivers/hp-spectre-13-v100-notebook-pc/model/13190976/)
