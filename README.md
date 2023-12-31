@@ -4,7 +4,7 @@ Hackintosh Ventura on HP Spectre 13 v102nl Opencore
 
 
 **Status: (Active)** <br>
-**Current version: Ventura 13.1**
+**Current version: Ventura 13.6.3**
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-blue.svg)](https://github.com/acidanthera/OpenCorePkg)
 
@@ -120,7 +120,7 @@ You can find configuration guide for Kaby Lake laptops on [dortania.github.io](h
   - `SystemMemoryStatus -> Auto`
 
  **Note**: You need to generate your own values for `SystemProductName`, `SystemSerialNumber`, `MLB`, `ROM` and `SystemUUID` using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
- I'm using SMBIOS for MacBookPro16.4, in MacOS Ventura MacBookPro16.1.
+ I'm using SMBIOS for MacBookPro14.1.
 
 </details>
 
