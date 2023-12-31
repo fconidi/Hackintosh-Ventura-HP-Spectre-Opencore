@@ -94,7 +94,7 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
 
 ## Configuration advices (config.plist)
 
-You can find configuration guide for Kaby Lake laptops on [dortania.github.io](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#starting-point) site.
+You can find configuration guide for Kaby Lake laptops on [dortania.github.io](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html) site.
 
 
 </details>
