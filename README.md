@@ -110,21 +110,19 @@ You can find configuration guide for Kaby Lake laptops on [dortania.github.io](h
     UpdateNVRAM -> True
     UpdateSMBIOS -> True
     UpdateSMBIOSMode -> Create
-    UseRawUuidEncoding -> False
+    UseRawUuidEncoding -> True
 
 - **Generic**
-  - `AdviseFeatures -> False`
+  - `AdviseFeatures -> True`
   - `MaxBIOSVersion -> False`
-  - `SpoofVendor -> True`
-  - `ProcessorType -> 1793`
-  - `SystemMemoryStatus -> Auto`
+  - `SpoofVendor -> False`
+  - `ProcessorType -> 0`
+  - `SystemMemoryStatus -> Upgradable`
 
  **Note**: You need to generate your own values for `SystemProductName`, `SystemSerialNumber`, `MLB`, `ROM` and `SystemUUID` using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS).
  I'm using SMBIOS for MacBookPro14.1.
 
 </details>
-
-   **Note**: For `boot-args` We need `-igfxblr` flag to prevent black screen on system loading screen.
 
 
 ## Status
@@ -136,10 +134,10 @@ You can find configuration guide for Kaby Lake laptops on [dortania.github.io](h
 </summary>
 
 - `App Store`
-- `Audio` - Realtek ALC285 with sound keys (F7 and F8)
+- `Audio` - Conexant CX8200
 - `Brightness Keys` 
 - `Battery` (management, percentage and actual work time)
-- `Bluetooth and Wi-Fi` - Intel Wireless-AC 7160
+- `Bluetooth and Wi-Fi` - Intel Wireless-AC 8160
 - `CPU power management / performance`
 - `Keyboard`
 - `IGPU Intel HD 620`
