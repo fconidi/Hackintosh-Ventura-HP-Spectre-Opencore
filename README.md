@@ -24,8 +24,6 @@ Read the entire [Dortania](https://dortania.github.io/OpenCore-Install-Guide) gu
 [![HP](https://img.shields.io/badge/HP-Specs-red.svg)](https://support.hp.com/gb-en/document/c05300954) [![OpenCore](https://img.shields.io/badge/HP-Support-blue.svg)](https://support.hp.com/gb-en/drivers/hp-spectre-13-v100-notebook-pc/model/13190976/)
 
 
-
-
  | Component       | Manufacturer and model                                | Additional description           |
  | --------------- | ----------------------------------------------------- | -------------------------------- |
  | CPU             | Intel Core i7-7500U (7th gen - Kaby Lake)      |                                  |
@@ -155,7 +153,6 @@ You can find configuration guide for Kaby Lake laptops on [dortania.github.io](h
 - `iTunes Store`
   
 </details>
-
 
 
 <details>  
